@@ -24,7 +24,7 @@
 
 ## Zusatzbefehle
 * echo "abc" : gibt Text aus
-* echo "abc" >> *file.xy* : schreibt TExt in neue Datei
+* echo "abc" >> *file.xy* : schreibt Text/Zeichenfole in Datei
 * cat = gibt Inhalt einer Datei aus
 * open = öffnet eine Datei in VS Code
 * .code = zeigt Datei in VS Code an

@@ -22,7 +22,7 @@
 * rm *file.xy* : löscht Datei
 * rm -r *directory* : löscht Ordner und alle Unterordner
 
-##Zusatzbefehle
+## Zusatzbefehle
 * echo "abc" : gibt Text aus
 * echo "abc" >> *file.xy* : schreibt TExt in neue Datei
 * cat = gibt Inhalt einer Datei aus

@@ -48,3 +48,8 @@
 * `⌃A`	Move to beginning of line	
 * `⌃E`	Move to end of line	
 * `⌃U`	Delete to beginning of line
+
+## Push und Pull
+* Pull: mit dem Terminal in Ordner gehen, dann `git pull``
+* `git status`: zeigt an, ob Ordner aktuell ist
+* Hilfe hier: [Git und VS Code](https://herwig.de/anleitungen/entwicklung/gitlab/workflow-vscode-git-gitlab.html#branch-von-mehreren-standorten-bearbeiten)

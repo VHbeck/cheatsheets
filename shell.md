@@ -38,3 +38,13 @@
 * `open` = öffnet eine Datei im Standardprogramm eines Betriebssystems
 * `open .` : öffnet ORdner im Finer/Explorer
 * `.code` = zeigt Datei in VS Code an
+* ctrl + c : wenn terminal hängt
+* `man [Befehl] : zeigt wie man Befehle für die Shell anwendet
+* `clear` or `⌃L` : Clear screen
+* `exit` or `⌃D` : Exit terminal
+
+## Shortcuts
+* `⌃C`	Get out of trouble
+* `⌃A`	Move to beginning of line	
+* `⌃E`	Move to end of line	
+* `⌃U`	Delete to beginning of line

@@ -11,3 +11,5 @@
 * ausschneiden und einfügen : erst Datei kopieren, dann option + command + v
 * Taskmanager aufrufen : option + command + entf
 * Multi-Curser: Option + command + Curser nach oben/unten
+* ctrl + option + I
+* ctrl + Tab : zwischen Browsertabs wechseln

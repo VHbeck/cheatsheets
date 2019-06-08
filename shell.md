@@ -60,4 +60,4 @@
 - Hilfe hier: [Git und VS Code](https://herwig.de/anleitungen/entwicklung/gitlab/workflow-vscode-git-gitlab.html#branch-von-mehreren-standorten-bearbeiten)
 - Branch auf Github erstellen: Über iTerm in Projekt gehen, dann `git checkout -b my-new-feature` eingeben, dann push auf Github mit `git push origin [name_of_your_new_branch]``
 - Branches anzeigen lassen: `git branch -a`
-- mehr Infos zu Branches : [Git branches help](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+- mehr Infos zu Branches : [Git branches help](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) oder [Git branch change](https://backlog.com/git-tutorial/branching/switch-branch/)

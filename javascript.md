@@ -9,6 +9,8 @@
 - Werte ausgeben mit `console.log()`
 - Pop-Up: `alert(dateOfYear);`
 
+* auskommentieren: eine Zeile `//` mehrere Zeilen Anfang: `/*` Ende: `*/`
+
 Bsp:
 
 ```javascript

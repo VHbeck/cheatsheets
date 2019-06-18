@@ -15,3 +15,5 @@
 - ctrl + option + I
 - ctrl + Tab : zwischen Browsertabs wechseln
 - ctrl + cmd + Leertaste
+
+* cmd + option + j = Console öffnen
